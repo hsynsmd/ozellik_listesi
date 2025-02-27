@@ -1,6 +1,7 @@
-6. Kullanıcı dostu arayüz
-7. Karanlık mod desteği
 
-8. Hızlı veri senkronizasyonu
-9. Yapay zeka destekli öneriler
+1. Karanlık mod desteği
+2. Kullanıcı dostu arayüz
+3. Hızlı veri senkronizasyonu
+4. Yapay zeka destekli öneriler
+
 
