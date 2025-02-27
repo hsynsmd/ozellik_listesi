@@ -2,3 +2,5 @@
 2. Karanlık mod desteği
 3. Çevrimdışı çalışma özelliği
 4. Hızlı veri senkronizasyonu
+5. Yapay zeka destekli öneriler
+
